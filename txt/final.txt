@@ -1,0 +1,1 @@
+HTTP Module là một thư viện được xây dựng sẵn trong Node.JS cho phép nhận gửi dữ liệu thông qua giao thức HTTP 

@@ -1,0 +1,1 @@
+HTTP Module là một thư viện được dùng chủ yếu trong Node.JS để xây dựng một HTTP Server làm nhiệm vụ tiếp nhận các yêu cầu và đưa ra các phản hồi cho máy khách 
